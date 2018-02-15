@@ -1,0 +1,9 @@
+{
+  "name": "Express-React2",
+  "version": "1.0.0",
+  "dependencies": {
+    "aws-sdk": "2.176.0",
+    "@slappforge/slappforge-sdk": "0.0.3",
+    "aws-serverless-express-example": "2.1.0"
+  }
+}
